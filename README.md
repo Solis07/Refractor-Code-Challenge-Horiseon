@@ -1,2 +1,9 @@
 # Refractor-Code-Challenge-Horiseon
-For my first challenge, I was tasked to refractor a code for  company's webpage by the name of Horiseon.
+
+## Description
+
+The first challenge to my coding boot camp experience consisted of refractoring code for a company called Horiseon. Within the challenge I learned how to clean up redundant code in CSS, change div elements to their more proper semantic HTML elements, add alt attributes where needed, and made sure the CSS style sheet fell in line with the HTML document.
+
+## Website Link
+
+## Screenshot
