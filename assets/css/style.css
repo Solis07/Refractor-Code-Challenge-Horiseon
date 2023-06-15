@@ -65,7 +65,7 @@ p {
     margin-left: 20px;
 }
 
-.content article {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -104,7 +104,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits div {
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
