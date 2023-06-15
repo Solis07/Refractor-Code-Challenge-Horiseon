@@ -6,5 +6,8 @@ The first challenge to my coding boot camp experience consisted of refractoring 
 
 ## Website Link
 
+[Horiseon](https://solis07.github.io/Refractor-Code-Challenge-Horiseon/)
+
 ## Screenshot
+
 ![Horiseon Screenshot](./assets/images/horiseon-screenshot.jpg)
